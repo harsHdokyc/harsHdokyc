@@ -5,7 +5,7 @@
 <!-- 🌊 Wave Banner -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
 
-# 👋 Hey, I’m Harsh Verma
+# 👋 Hey, I’m Harsh Verma but call me fang 🤦‍♂️
 
 # 💫 About Me:
 🔭 I’m currently working on:  
@@ -41,7 +41,6 @@ I travel like I’m escaping reality and gym like I’m fighting it.
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
 
 # 💻 Tech Stack
-*(All your badges — untouched, complete, and kept as-is)*
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
@@ -111,7 +110,7 @@ I travel like I’m escaping reality and gym like I’m fighting it.
 
 ---
 
-## 📈 Activity Graph (Animated)
+## 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harsHdokyc&theme=react-dark&hide_border=true)
 
 ---
@@ -121,8 +120,7 @@ I travel like I’m escaping reality and gym like I’m fighting it.
 
 ---
 
-# 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=harsHdokyc&icon=1&color=2)](https://visitcount.itsvg.in)
+
 
 <!-- 🏁 Footer -->
 <p align="center">✨ Proudly crafted for vibes, code & chaos ✨</p>
